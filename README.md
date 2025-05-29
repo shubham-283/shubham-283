@@ -1,117 +1,86 @@
-<h1 align="center">Hi there 👋, I'm Shubham Pandit</h1>
+<h1 align="center">👋 Hi, I'm Shubham Pandit</h1>
 
 <p align="center">
-  🎓 B.Tech in Computer Engineering | 🧠 Fullstack Developer + AI Enthusiast | ⚡ IoT & Embedded Innovator  
+  🎓 <strong>B.Tech in Computer Engineering</strong> — Marwadi University <br>
+  💻 <strong>Passionate Software Developer</strong> | Exploring <strong>AI, ML & Real-time Applications</strong>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/shubham-pandit-a53a64269" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/shubham283" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" /></a>
-</p>
+
+🔗 [LinkedIn](https://linkedin.com/in/shubham-pandit-a53a64269) · [HackerRank](https://www.hackerrank.com/profile/shubham283) · 📩 panditshubham283@gmail.com · 📷 [Instagram](https://instagram.com/shubham__283)
 
 ---
 
-## 🚀 About Me
-I'm a highly motivated Fullstack Developer who thrives at the intersection of **AI**, **IoT**, and **real-world innovation**. With hands-on expertise in cutting-edge tools like **YOLOv8**, **BERT**, and **ESP8266**, I build solutions that matter — from **mental health systems** to **smart kitchens** and **traffic monitoring**.
+## 🚀 Summary
 
-- 🔭 Currently working on **real-time multimodal mental health prediction system**
-- 🌱 Exploring **Edge AI**, **LLMs**, and **AI-driven embedded systems**
-- 🏆 1st Runner-up at **HackNUThon 6.0**, Nirma University
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/shubham-pandit-a53a64269)
+I'm a highly motivated software developer with a strong foundation in full-stack development, AI/ML systems, and computer vision. I love solving real-world problems through smart and scalable tech. Whether it's deploying real-time vehicle tracking systems, building mental health detection platforms, or crafting smooth front-end user experiences — I thrive on transforming ideas into production-ready solutions.
 
 ---
 
-## 💼 Featured Projects
+## 🏆 Achievements
 
-### 🔹 Multimodal Mental Health Prediction  
-🧠 Real-time system analyzing **text, voice, and facial expressions**  
-**Tech:** BERT, CNN-Transformer, OpenCV, PyTorch, React, Tailwind  
-📅 Jan 2025 – Apr 2025
-
-### 🔹 Vehicle Counting & Classification  
-🚗 Real-time detection, counting & direction-aware classification  
-**Tech:** YOLOv8, Norfair, OpenCV, Python, FastAPI  
-📅 Jan 2025 – Mar 2025
-
-### 🔹 Smart Kitchen & Waste Minimizer  
-🍽️ CV system for spoilage detection, inventory tracking & forecasting  
-**Tech:** YOLOv8, MobileNet, Prophet, FastAPI, MySQL  
-📅 Mar 2025
-
-### 🔹 Adaa Jaipur – E-Commerce Website  
-🛍️ Responsive frontend with dynamic product filtering  
-**Tech:** ReactJS, Python, Firebase, Auth0  
-📅 Jan 2025 – Feb 2025
-
-### 🔹 Cyberbullying Detection  
-🧩 NLP-based FastAPI backend for toxic content filtering  
-**Tech:** Python, NLTK, Scikit-learn, Heroku  
-📅 Sep 2024
-
----
-
-## 🏆 Achievements & Awards
-
-- 🥈 **1st Runner-Up (PetPooja Track)**, HackNUThon 6.0 — *Computer Society of India, Nirma University*  
-  *Mar 2025*
-
----
-
-## 📚 Education
-
-**🎓 Marwadi University**  
-B.Tech in Computer Engineering (2022–Present) — *CGPA: 9.5*
+- 🥈 **HackNUThon 6.0 - 1st Runner-up (PetPooja Track)**  
+  *Computer Society of India, Nirma University — Mar 2025*
 
 ---
 
 ## 📜 Certifications
 
-- 🧠 **CCNAv7: Introduction to Networks** – Cisco | Jan–Feb 2024  
-- 🧠 **CCNAv7: Switching, Routing & Wireless Essentials** – Cisco | Feb–Mar 2024  
-- 🐍 **Python Data Structures** – University of Michigan  
-- 🐧 **Linux Essentials** – LPI  
-- 💾 **Database Programming with SQL** – Oracle Academy  
-- 🖥️ **NDG Linux Essentials** – Cisco Networking Academy  
+- **CCNAv7: Introduction to Networks** — Cisco Networking Academy (Jan–Feb 2024)
+- **CCNAv7: Switching, Routing, and Wireless Essentials** — Cisco Networking Academy (Feb–Mar 2024)
+- **Python Data Structures** — University of Michigan
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💼 Projects
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+### 🔬 Multimodal Mental Health Prediction (Jan–Apr 2025)
+A real-time system that analyzes voice, text, and facial expression to predict emotional states and mental well-being.  
+**Tech Stack:** BERT, CNN-Transformer, OpenCV, PyTorch, React, TailwindCSS
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### 🚗 Vehicle Counting & Classification System (Jan–Mar 2025)
+Tracks, counts, and classifies vehicle types using live camera feeds for traffic analysis.  
+**Tech Stack:** YOLOv8, Norfair, OpenCV, FastAPI
 
-**Backend & ML:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+### 🍽️ AI-Powered Smart Kitchen for Restaurants (Mar 2025)
+Automated inventory tracking, spoilage alerts, and sales forecasting using computer vision and time-series prediction.  
+**Tech Stack:** YOLOv8, MobileNET, Prophet, FastAPI, MySQL
 
-**Others:**  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)  
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+### 🛍️ Adaa Jaipur E-Commerce Website (Jan–Feb 2025)
+Frontend developer for a fashion retail site, ensuring responsive UI, product filtering, and authentication.  
+**Tech Stack:** ReactJS, Firebase, Firestore, Auth0, Git
+
+### 🛡️ Cyberbullying Detection System (Sep 2024)
+ML/NLP-based platform that identifies harmful or abusive text content in real time.  
+**Tech Stack:** Python, NLTK, Scikit-learn, FastAPI, Pandas
+
+### 🏠 Smart Home Automation Website (Jan–Apr 2023)
+Frontend UI for a smart home dashboard with device control and live feedback.  
+**Tech Stack:** ReactJS, NodeJS, MongoDB
+
+### 👨‍💼 Customer Management System (Aug–Dec 2023)
+Java Swing-based desktop app for managing customer data and billing.  
+**Tech Stack:** Java, XAMPP, MySQL
 
 ---
 
-## 📌 Other Projects
+## 🛠️ Skills
 
-- **Home Automation Website** – ReactJS, NodeJS, MongoDB  
-- **Customer Management System** – Java Swing + XAMPP
+- **Languages:** Python, JavaScript, Java, SQL, C++
+- **Frontend:** ReactJS, TailwindCSS, HTML, CSS
+- **Backend:** FastAPI, Node.js, Firebase
+- **Databases:** MySQL, MongoDB, Firestore
+- **AI/ML Tools:** PyTorch, OpenCV, Scikit-learn, Prophet, BERT
+- **Tools:** Git, GitHub, Postman, VS Code, Heroku, Render
 
 ---
 
-## 🌐 Let's Connect!
-- 🔗 [LinkedIn](https://linkedin.com/in/shubham-pandit-a53a64269)
-- 💻 [HackerRank](https://www.hackerrank.com/profile/shubham283)
-- 📸 [Instagram](https://instagram.com/shubham__283)
+## 📫 Contact Me
+
 - 📧 Email: panditshubham283@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/shubham-pandit-a53a64269](https://linkedin.com/in/shubham-pandit-a53a64269)
+- 💻 GitHub: [github.com/shubham-283](https://github.com/shubham-283)
+- 📷 Instagram: [@shubham__283](https://instagram.com/shubham._.283)
 
 ---
 
-"# shubham-283" 
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
