@@ -1,7 +1,6 @@
-<div align="center">
-# 👋 Shubham Pandit
-### 🎓 B.Tech in Computer Engineering | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
-</div>
+<h1 align="center">👋 Hi, I'm Shubham Pandit</h1>
+<h4 align="center">🎓 Computer Engineering Student | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast </h4>
+
 ---
 
 ## 🌐 Connect With Me
@@ -20,7 +19,7 @@
 
 ## 🚀 Professional Summary
 
-Highly motivated **Computer Engineering student** from Marwadi University with expertise in **full-stack development**, **AI/ML systems**, and **computer vision**. Passionate about solving real-world problems through innovative technology solutions. Proven track record in developing scalable applications, from real-time vehicle tracking systems to mental health detection platforms.
+Highly motivated **Computer Engineering Student** from Marwadi University with expertise in **Full-Stack development**, **AI/ML systems**, and **computer vision**. Passionate about solving real-world problems through innovative technology solutions. Proven track record in developing scalable applications, from real-time vehicle tracking systems to mental health detection platforms.
 
 **Core Competencies:** Full-Stack Development • Machine Learning • Computer Vision • Real-time Systems • API Development
 
