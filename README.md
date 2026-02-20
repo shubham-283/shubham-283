@@ -224,7 +224,7 @@ Passionate about building scalable, real-world solutions - from intelligent traf
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/shubham-pandit-a53a64269">
+<a href="https://linkedin.com/in/shubham283">
   <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Pandit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 
